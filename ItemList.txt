@@ -1,0 +1,11 @@
+Health Potion,25,p
+Key,50,k
+Bag o' Gold,15,m
+Gem,10,m
+Shield,5,a
+Helm,7,a
+Belt,3,a
+Ring,8,a
+Gloves,4,a
+Boots,4,a
+Ringmail,9,a
